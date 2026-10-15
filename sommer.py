@@ -2,7 +2,7 @@
 import csv
 from datetime import datetime
 
-filename = "/Users/besanhamad/Documents/DAT120,2026/-ving-7/sinnes.csv"
+filename = "sinnes.csv"
 
 year = int(input("Enter year: "))
 
